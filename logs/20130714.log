@@ -1,0 +1,65 @@
+01:06:58 MetaTrader 4 build 509 started (MetaQuotes Software Corp.)
+01:09:40 Experts are disabled because the account has been changed
+01:28:34 MetaTrader 4 build 509 stopped
+01:28:43 MetaTrader 4 build 509 started (MetaQuotes Software Corp.)
+01:30:53 MetaTrader 4 build 509 stopped
+01:33:18 MetaTrader 4 build 509 started (MetaQuotes Software Corp.)
+01:43:43 Accounts: timeout on stop
+01:43:46 Accounts: timeout on stop
+01:43:52 MetaTrader 4 build 509 stopped
+01:44:10 MetaTrader 4 build 509 started (MetaQuotes Software Corp.)
+01:50:59 Account: timeout on stop
+01:51:02 Account: timeout on stop
+01:51:05 Account: timeout on stop
+01:51:08 Account: timeout on stop
+01:51:11 Account: timeout on stop
+01:51:11 Account: terminated
+01:53:50 MetaTrader 4 build 509 stopped
+08:41:09 MetaTrader 4 build 509 started (MetaQuotes Software Corp.)
+08:44:01 Custom indicator Stochastic USDCHF,H4: loaded successfully
+08:48:29 Custom indicator Stochastic USDCHF,H4: removed
+08:48:30 MetaTrader 4 build 509 stopped
+08:48:36 MetaTrader 4 build 509 started (MetaQuotes Software Corp.)
+08:48:37 Custom indicator Stochastic USDCHF,H4: loaded successfully
+08:48:54 '749640': login
+08:50:25 Custom indicator Stochastic Google_Inc,M15: loaded successfully
+08:50:51 Custom indicator ATR Google_Inc,M15: loaded successfully
+09:19:49 Custom indicator Stochastic USDCHF,H4: removed
+09:19:49 Custom indicator Stochastic Google_Inc,M5: removed
+09:19:49 Custom indicator ATR Google_Inc,M5: removed
+09:19:49 MetaTrader 4 build 509 stopped
+09:32:48 MetaTrader 4 build 509 started (MetaQuotes Software Corp.)
+09:32:50 Custom indicator Stochastic USDCHF,H4: loaded successfully
+09:32:50 Custom indicator Stochastic Google_Inc,M5: loaded successfully
+09:32:50 Custom indicator ATR Google_Inc,M5: loaded successfully
+09:32:55 '749640': connect failed [No connection]
+09:35:51 Custom indicator MACD Google_Inc,M5: loaded successfully
+09:36:05 Custom indicator MACD Google_Inc,M5: removed
+09:36:38 Custom indicator Moving Averages Google_Inc,M5: loaded successfully
+09:41:00 Custom indicator Moving Averages Google_Inc,M15: removed
+10:42:51 '749640': login
+10:42:52 '749640': previous successful authorization performed from 85.61.182.214
+11:00:53 Custom indicator Stochastic USDCHF,H4: removed
+11:00:53 Custom indicator Stochastic Google_Inc,M5: removed
+11:00:53 Custom indicator ATR Google_Inc,M5: removed
+11:00:54 MetaTrader 4 build 509 stopped
+13:55:00 MetaTrader 4 build 509 started (MetaQuotes Software Corp.)
+13:55:03 Custom indicator Stochastic USDCHF,H4: loaded successfully
+13:55:03 Custom indicator Stochastic Google_Inc,M5: loaded successfully
+13:55:03 Custom indicator ATR Google_Inc,M5: loaded successfully
+13:55:33 '749640': login
+13:55:34 '749640': previous successful authorization performed from 77.230.3.85
+14:14:54 Custom indicator Stochastic USDCHF,H4: removed
+14:14:54 Custom indicator Stochastic Google_Inc,M5: removed
+14:14:54 Custom indicator ATR Google_Inc,M5: removed
+14:14:54 MetaTrader 4 build 509 stopped
+14:15:00 MetaTrader 4 build 509 started (MetaQuotes Software Corp.)
+14:15:01 Custom indicator Stochastic USDCHF,H4: loaded successfully
+14:15:01 Custom indicator Stochastic Google_Inc,M5: loaded successfully
+14:15:01 Custom indicator ATR Google_Inc,M5: loaded successfully
+14:15:04 '749640': login
+14:15:05 '749640': previous successful authorization performed from 77.230.3.85
+14:15:12 Custom indicator Stochastic USDCHF,H4: removed
+14:15:12 Custom indicator Stochastic Google_Inc,M5: removed
+14:15:12 Custom indicator ATR Google_Inc,M5: removed
+14:15:12 MetaTrader 4 build 509 stopped

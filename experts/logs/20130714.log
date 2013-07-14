@@ -1,0 +1,123 @@
+01:06:58 Compiling 'MACD Sample'
+01:06:58 Compiling 'Moving Average'
+01:06:58 Compiling 'Accelerator'
+01:06:59 Compiling 'Accumulation'
+01:06:59 Compiling 'Alligator'
+01:06:59 Compiling 'ATR'
+01:06:59 Compiling 'Awesome'
+01:06:59 Compiling 'Bands'
+01:07:00 Compiling 'Bears'
+01:07:00 Compiling 'Bulls'
+01:07:00 Compiling 'CCI'
+01:07:00 Compiling 'Heiken Ashi'
+01:07:00 Compiling 'Ichimoku'
+01:07:00 Compiling 'iExposure'
+01:07:00 Compiling 'MACD'
+01:07:01 Compiling 'Momentum'
+01:07:01 Compiling 'Moving Averages'
+01:07:01 Compiling 'OsMA'
+01:07:01 Compiling 'Parabolic'
+01:07:01 Compiling 'RSI'
+01:07:02 Compiling 'Stochastic'
+01:07:02 Compiling 'ZigZag'
+01:07:02 Compiling 'close'
+01:07:02 Compiling 'delete_pending'
+01:07:02 Compiling 'modify'
+01:07:03 Compiling 'modify_pending'
+01:07:03 Compiling 'period_converter'
+01:07:03 Compiling 'rotate_text'
+01:07:03 Compiling 'send_pending'
+01:07:04 Compiling 'stdlib'
+01:09:40 Experts are disabled because the account has been changed
+08:44:01 Stochastic USDCHF,H4: loaded successfully
+08:44:06 Stochastic USDCHF,H4: initialized
+08:48:29 Stochastic USDCHF,H4: uninit reason 1
+08:48:29 Stochastic USDCHF,H4: removed
+08:48:37 Stochastic USDCHF,H4: loaded successfully
+08:48:37 Stochastic USDCHF,H4: initialized
+08:50:25 Stochastic Google_Inc,M15: loaded successfully
+08:50:26 Stochastic Google_Inc,M15: initialized
+08:50:51 ATR Google_Inc,M15: loaded successfully
+08:50:52 ATR Google_Inc,M15: initialized
+09:07:36 Stochastic Google_Inc,M15: uninit reason 3
+09:07:36 ATR Google_Inc,M15: uninit reason 3
+09:07:36 Stochastic Google_Inc,M5: initialized
+09:07:36 ATR Google_Inc,M5: initialized
+09:07:40 Stochastic Google_Inc,M5: uninit reason 3
+09:07:40 ATR Google_Inc,M5: uninit reason 3
+09:07:40 Stochastic Google_Inc,M15: initialized
+09:07:40 ATR Google_Inc,M15: initialized
+09:07:54 Stochastic Google_Inc,M15: uninit reason 3
+09:07:54 ATR Google_Inc,M15: uninit reason 3
+09:07:54 Stochastic Google_Inc,M30: initialized
+09:07:54 ATR Google_Inc,M30: initialized
+09:14:11 Stochastic Google_Inc,M30: uninit reason 3
+09:14:11 ATR Google_Inc,M30: uninit reason 3
+09:14:11 Stochastic Google_Inc,M5: initialized
+09:14:11 ATR Google_Inc,M5: initialized
+09:14:44 Stochastic Google_Inc,M5: uninit reason 5
+09:14:44 Stochastic Google_Inc,M5: initialized
+09:19:49 Stochastic USDCHF,H4: uninit reason 1
+09:19:49 Stochastic USDCHF,H4: removed
+09:19:49 Stochastic Google_Inc,M5: uninit reason 1
+09:19:49 ATR Google_Inc,M5: uninit reason 1
+09:19:49 Stochastic Google_Inc,M5: removed
+09:19:49 ATR Google_Inc,M5: removed
+09:32:50 Stochastic USDCHF,H4: loaded successfully
+09:32:50 Stochastic USDCHF,H4: initialized
+09:32:50 Stochastic Google_Inc,M5: loaded successfully
+09:32:50 ATR Google_Inc,M5: loaded successfully
+09:32:50 Stochastic Google_Inc,M5: initialized
+09:32:50 ATR Google_Inc,M5: initialized
+09:35:51 MACD Google_Inc,M5: loaded successfully
+09:35:53 MACD Google_Inc,M5: initialized
+09:36:05 MACD Google_Inc,M5: uninit reason 1
+09:36:05 MACD Google_Inc,M5: removed
+09:36:38 Moving Averages Google_Inc,M5: loaded successfully
+09:36:41 Moving Averages Google_Inc,M5: initialized
+09:36:59 Moving Averages Google_Inc,M5: uninit reason 5
+09:36:59 Moving Averages Google_Inc,M5: initialized
+09:38:46 Moving Averages Google_Inc,M5: uninit reason 3
+09:38:46 Stochastic Google_Inc,M5: uninit reason 3
+09:38:46 ATR Google_Inc,M5: uninit reason 3
+09:38:46 Moving Averages Google_Inc,M15: initialized
+09:38:46 Stochastic Google_Inc,M15: initialized
+09:38:46 ATR Google_Inc,M15: initialized
+09:41:00 Moving Averages Google_Inc,M15: uninit reason 1
+09:41:00 Moving Averages Google_Inc,M15: removed
+09:54:24 Stochastic Google_Inc,M15: uninit reason 5
+09:54:24 Stochastic Google_Inc,M15: initialized
+10:06:02 Stochastic Google_Inc,M15: uninit reason 3
+10:06:02 ATR Google_Inc,M15: uninit reason 3
+10:06:02 Stochastic Google_Inc,M5: initialized
+10:06:02 ATR Google_Inc,M5: initialized
+11:00:53 Stochastic USDCHF,H4: uninit reason 1
+11:00:53 Stochastic USDCHF,H4: removed
+11:00:53 Stochastic Google_Inc,M5: uninit reason 1
+11:00:53 ATR Google_Inc,M5: uninit reason 1
+11:00:53 Stochastic Google_Inc,M5: removed
+11:00:53 ATR Google_Inc,M5: removed
+13:55:03 Stochastic USDCHF,H4: loaded successfully
+13:55:03 Stochastic USDCHF,H4: initialized
+13:55:03 Stochastic Google_Inc,M5: loaded successfully
+13:55:03 ATR Google_Inc,M5: loaded successfully
+13:55:03 Stochastic Google_Inc,M5: initialized
+13:55:03 ATR Google_Inc,M5: initialized
+14:14:54 Stochastic USDCHF,H4: uninit reason 1
+14:14:54 Stochastic USDCHF,H4: removed
+14:14:54 Stochastic Google_Inc,M5: uninit reason 1
+14:14:54 ATR Google_Inc,M5: uninit reason 1
+14:14:54 Stochastic Google_Inc,M5: removed
+14:14:54 ATR Google_Inc,M5: removed
+14:15:01 Stochastic USDCHF,H4: loaded successfully
+14:15:01 Stochastic USDCHF,H4: initialized
+14:15:01 Stochastic Google_Inc,M5: loaded successfully
+14:15:01 ATR Google_Inc,M5: loaded successfully
+14:15:01 Stochastic Google_Inc,M5: initialized
+14:15:01 ATR Google_Inc,M5: initialized
+14:15:12 Stochastic USDCHF,H4: uninit reason 1
+14:15:12 Stochastic USDCHF,H4: removed
+14:15:12 Stochastic Google_Inc,M5: uninit reason 1
+14:15:12 ATR Google_Inc,M5: uninit reason 1
+14:15:12 Stochastic Google_Inc,M5: removed
+14:15:12 ATR Google_Inc,M5: removed
