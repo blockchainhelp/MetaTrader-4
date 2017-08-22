@@ -1,9 +1,9 @@
 //+------------------------------------------------------------------+
 //|                                                  Accelerator.mq4 |
-//|                      Copyright © 2005, MetaQuotes Software Corp. |
+//|                      Copyright Â© 2005, MetaQuotes Software Corp. |
 //|                                       http://www.metaquotes.net/ |
 //+------------------------------------------------------------------+
-#property  copyright "Copyright © 2005, MetaQuotes Software Corp."
+#property  copyright "Copyright Â© 2005, MetaQuotes Software Corp."
 #property  link      "http://www.metaquotes.net/"
 //---- indicator settings
 #property  indicator_separate_window
@@ -85,5 +85,4 @@ int start()
    //---- done
    return(0);
   }
-//+------------------------------------------------------------------+
-
+//+------------------------------------------------------------------
